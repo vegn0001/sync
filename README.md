@@ -1,2 +1,34 @@
-# sync
-my first project
+<html>
+
+    <head>
+        <title>Explanation to Swathi, Vijay, Anji, Ravi</title>
+    </head>
+
+    <body>
+       <h1 align="center">Explanation to Swathi, Vijay, Anji, Ravi by VSS Innovative Technologies</h1>
+
+<h1>This is h1</h1>
+<h2>This is h2</h2>
+<h3>This is h3</h3>
+<h4>This is h4</h4>
+<h5>This is h5</h5>
+<h6>This is h6</h6>
+
+<marquee>
+Karishma           shan         megharaj          Bhupesh
+</marquee>
+
+<h3> VSS Innovative Technologies Branches : </h3>
+<br/>
+<a href="http://tinyurl.com/vss-btm">VSS BTM address</a>
+<br/>
+
+<a href="http://tinyurl.com/vss-mar">VSS Marathahalli address</a>
+<br/>
+<a href="http://www.kittiptur.ac.in"> kalpataru college of engineering by Karishma</a>
+<br/>
+
+
+    </body>
+
+</html>
